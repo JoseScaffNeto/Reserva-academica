@@ -1,0 +1,7 @@
+target/
+*.class
+*.log
+*.tmp
+.DS_Store
+lib/
+reserva-academica.jar
